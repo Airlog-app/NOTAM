@@ -60,7 +60,7 @@
                     </style>
                 </head>
                 <body>
-                        <span class="article-type">NEWS AND UPDATES</span>
+                        <span class="article-type">TEST ARTICLE</span>
                         <span class="date-text">21 March 2024</span>
                         <h1>Provide your trader status in App Store Connect</h1> <!-- Changed to h1 for demonstration -->
                         <p>To align with the Digital Services Act (DSA) in the European Union (EU), Account Holders and Admins in the Apple Developer Program can now enter their trader status in App Store Connect.</p>

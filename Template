@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    <meta id="1"> <!--INCREMENT THIS-->
+    <meta id="aln_zero">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Notice Template</title> <!-- CHANGE THIS -->
@@ -70,21 +70,18 @@
 </head>
 
 <body>
-    <span class="article-type">NEWS AND UPDATES</span>
+    <span class="article-type">LOREM IPSUM DOLOR</span>
     <span class="date-text">24 March 2024</span>
-    <h1>Title Example</h1>
-    <p>To align with the Digital Services Act (DSA) in the European Union (EU), Account Holders and Admins in the Apple
-        Developer Program can now enter their trader status in App Store Connect.</p>
-    <h2>Title Example</h2>
-    <p>You'll need to let us know whether or not you're a trader to submit new apps to the App Store. If you're a
-        trader, you may be asked for documentation that verifies your trader contact information.</p>
+    <h1>Lorem Ipsum Dolor Sit Amet</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <h2>Consectetur Adipiscing Elit</h2>
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
 
-        <div class="container">
-            <h2>Demo Section Title</h2>
-            <p>This is a demo section where you can add any content to showcase or explain a feature, product, or concept. Feel free to add images, code snippets, or any other elements that help illustrate your demo.</p>
-            <!-- More demo content can be added here -->
-        </div>
-    
+    <div class="container">
+        <h2>Nemo Enim Ipsam Voluptatem</h2>
+        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+    </div>
+
 </body>
 
 </html>

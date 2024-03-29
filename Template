@@ -3,7 +3,7 @@
     <meta id="1"> <!--INCREMENT THIS-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trader Status Information</title> <!-- CHANGE THIS -->
+    <title>Notice Template</title> <!-- CHANGE THIS -->
     <style>
         body {
             font-family: 'Helvetica Neue', sans-serif;
@@ -11,7 +11,7 @@
             padding: 20px;
             --background-color: #F2F2F7FF;
             --text-color: #000;
-            --container-background-color: transparent;
+            --container-background-color: #FFFFFFFF;
             --title-color: #ff2d55;
             --secondary-color: #8e8e93;
             background-color: var(--background-color);
@@ -61,9 +61,9 @@
         /* Dark mode styles */
         @media (prefers-color-scheme: dark) {
             body {
-                --background-color: #000;
+                --background-color: #1C1C1EFF;
                 --text-color: #fff;
-                --container-background-color: #333;
+                --container-background-color: #2C2C2EFF;
             }
         }
     </style>
@@ -79,6 +79,12 @@
     <p>You'll need to let us know whether or not you're a trader to submit new apps to the App Store. If you're a
         trader, you may be asked for documentation that verifies your trader contact information.</p>
 
+        <div class="container">
+            <h2>Demo Section Title</h2>
+            <p>This is a demo section where you can add any content to showcase or explain a feature, product, or concept. Feel free to add images, code snippets, or any other elements that help illustrate your demo.</p>
+            <!-- More demo content can be added here -->
+        </div>
+    
 </body>
 
 </html>

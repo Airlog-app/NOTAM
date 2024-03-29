@@ -9,9 +9,9 @@
             font-family: 'Helvetica Neue', sans-serif;
             margin: 0;
             padding: 20px;
-            --background-color: #FFFFFFFF;
+            --background-color: #fff;
             --text-color: #000;
-            --container-background-color: #F2F2F7FF;
+            --container-background-color: #f2f2f2;
             --title-color: #ff2d55;
             --secondary-color: #8e8e93;
             background-color: var(--background-color);

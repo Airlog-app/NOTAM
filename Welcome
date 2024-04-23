@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notice Template</title> <!-- CHANGE THIS -->
+    <title>Welcome to Airlog</title> <!-- CHANGE THIS -->
     <style>
         body {
             font-family: 'Helvetica Neue', sans-serif;
@@ -94,7 +94,7 @@
             </li>
             <li>
                 <a href="https://instagram.com/YourInstagramHandle">
-                    <img src="https://icons8.com/icon/32309/instagram" alt="Instagram">
+                    <img src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/>
                     YourInstagramHandle
                 </a>
             </li>

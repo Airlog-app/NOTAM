@@ -69,18 +69,38 @@
 </head>
 
 <body>
-    <span class="article-type">LOREM IPSUM DOLOR</span>
+    <span class="article-type">WELCOME TO AIRLOG</span>
     <span class="date-text">24 March 2024</span>
-    <h1>Lorem Ipsum Dolor Sit Amet</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    <h2>Consectetur Adipiscing Elit</h2>
-    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+    <h1>Welcome to Airlog!</h1>
+    <p>Welcome to Airlog, the innovative pilot logbook app tailored for iOS and iPadOS users. We're excited to have you on board and are here to support your aviation journey with our cutting-edge features designed specifically for pilots.</p>
+    <h2>Stay Connected</h2>
+    <p>Join our community and stay updated with the latest features, updates, and tips for maximizing your use of Airlog. Connect with us and fellow pilots on our social platforms.</p>
 
     <div class="container">
-        <h2>Nemo Enim Ipsam Voluptatem</h2>
-        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+        <h2>Follow Us</h2>
+        <p>Get in touch and follow us on our official social media channels:</p>
+        <ul>
+            <li>
+                <a href="https://twitter.com/YourTwitterHandle">
+                    <img src="https://icons8.com/icon/phOKFKYpe00C/twitterx" alt="Twitter">
+                    YourTwitterHandle
+                </a>
+            </li>
+            <li>
+                <a href="https://discord.gg/YourDiscordLink">
+                    <img src="https://icons8.com/icon/phOKFKYpe00C/twitterx" alt="Discord">
+                    Join Our Discord
+                </a>
+            </li>
+            <li>
+                <a href="https://instagram.com/YourInstagramHandle">
+                    <img src="https://icons8.com/icon/32309/instagram" alt="Instagram">
+                    YourInstagramHandle
+                </a>
+            </li>
+        </ul>
     </div>
-
 </body>
+
 
 </html>

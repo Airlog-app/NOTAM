@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notice Template</title> <!-- CHANGE THIS -->
+    <title>Notice Template 1</title> <!-- CHANGE THIS -->
     <style>
         body {
             font-family: 'Helvetica Neue', sans-serif;
@@ -70,7 +70,7 @@
 
 <body>
     <span class="article-type">LOREM IPSUM DOLOR</span>
-    <span class="date-text">24 March 2024</span>
+    <span class="date-text">24 January 2024</span>
     <h1>Lorem Ipsum Dolor Sit Amet</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     <h2>Consectetur Adipiscing Elit</h2>

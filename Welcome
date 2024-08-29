@@ -30,7 +30,7 @@
             font-size: 12px;
             color: var(--title-color);
             margin-top: 0;
-            margin-bottom: 10px;
+            margin-bottom:5px;
             font-weight: bold;
             display: block;
         }
@@ -39,6 +39,7 @@
             font-size: 12px;
             color: var(--secondary-color);
             display: block;
+            margin-bottom: 10px;
         }
 
         h1 {
@@ -77,12 +78,12 @@
 </head>
 
 <body>
-    <span class="article-type">WELCOME TO AIRLOG</span>
+    <span class="article-type">ARTICLE</span>
+    <span class="date-text">01 September 2024</span>
     <div style="text-align: center;">
-        <img src="https://github.com/Airlog-app/NOTAM/blob/main/Images/Airlog_Document_Logo?raw=true"
+        <img src="https://github.com/Airlog-app/NOTAM/blob/main/Images/Airlog_Document_Logo.png?raw=true"
             style="max-width: 100%; height: auto; border-radius: 15px;">
     </div>
-    <span class="date-text">01 September 2024</span>
     <h1>Welcome to Airlog!</h1>
     <p>Thank you for choosing Airlog. We're thrilled to have you on board as you embark on your aviation journey with
         us.</p>

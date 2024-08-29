@@ -14,6 +14,7 @@
             --container-background-color: #f2f2f2;
             --title-color: #ff2d55;
             --secondary-color: #8e8e93;
+            --link-color: #3578F7;
             background-color: var(--background-color);
             color: var(--text-color);
         }
@@ -58,48 +59,50 @@
             color: var(--text-color);
         }
 
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+        }
+
         /* Dark mode styles */
         @media (prefers-color-scheme: dark) {
             body {
                 --background-color: #1C1C1EFF;
                 --text-color: #fff;
                 --container-background-color: #2C2C2EFF;
-            }
-        }
-
-        .x-logo {
-            fill: black;
-        }
-
-        @media (prefers-color-scheme: dark) {
-            .x-logo {
-                fill: white;
-                background-color: white;
+                --link-color: #3578F7;
             }
         }
     </style>
 </head>
 
 <body>
+    <span class="article-type">WELCOME TO AIRLOG</span>
     <div style="text-align: center;">
-        <img src="https://github.com/Airlog-app/NOTAM/blob/main/Images/Airlog_Twitter_Header.png?raw=true"
+        <img src="https://github.com/Airlog-app/NOTAM/blob/main/Images/Airlog_Document_Logo?raw=true"
             style="max-width: 100%; height: auto; border-radius: 15px;">
     </div>
-
-    <span class="article-type">WELCOME TO AIRLOG</span>
     <span class="date-text">24 March 2024</span>
     <h1>Welcome to Airlog!</h1>
-    <p>Welcome to Airlog, the innovative pilot logbook app tailored for iOS and iPadOS users. We're excited to have you
-        on board and are here to support your aviation journey with our cutting-edge features designed specifically for
-        pilots.</p>
+    <p>Thank you for choosing Airlog. We're thrilled to have you on board as you embark on your aviation journey with us.</p>
+
+    <p>Airlog is proprietary software, but it's deeply rooted in community collaboration. We’re committed to
+        continuously evolving and enhancing Airlog for years to come, and your feedback plays a crucial role in shaping
+        its future.</p>
+
+    <p>We encourage you to submit feature requests through our in-app tool located under <strong>Settings &gt;
+            Contribute</strong>. Your insights and suggestions are invaluable to us.</p>
+
     <h2>Get Started</h2>
-    <p>To help you get started and answer any questions you might have, please refer to our comprehensive documentation available <a href="https://docs.airlog.io">here</a>. If you need further assistance, feel free to email us at <a href="mailto:support@airlog.io">support@airlog.io</a> or connect with us on our social media channels.</p>
+    <p>To help you get started and answer any questions you might have, please refer to our comprehensive documentation
+        available <a href="https://docs.airlog.io">here</a>. If you need further assistance, feel free to email us at <a
+            href="mailto:support@airlog.io">support@airlog.io</a> or connect with us on our social media channels.</p>
 
 
     <div class="container">
         <h2>Stay Connected</h2>
-    <p>Join our community and stay updated with the latest features, updates, and tips for maximizing your use of
-        Airlog. Connect with us and fellow pilots on our social platforms.</p>
+        <p>Join our community and stay updated with the latest features, updates, and tips for maximizing your use of
+            Airlog.</p>
         <a href="https://x.com/airlogapp">
             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0 0 50 50">
                 <path
@@ -172,7 +175,5 @@
         </a>
     </div>
 </body>
-
-
 
 </html>

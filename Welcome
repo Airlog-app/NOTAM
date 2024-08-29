@@ -70,9 +70,8 @@
 
 <body>
     <div style="text-align: center;">
-        <img src="https://github.com/Airlog-app/NOTAM/blob/main/Images/Airlog_Twitter_Header.png?raw=true" style="max-width: 100%; height: auto; border-radius: 20px;">
+        <img src="https://github.com/Airlog-app/NOTAM/blob/main/Images/Airlog_Twitter_Header.png?raw=true" style="width: 100%; height: auto;">
     </div>
-    
     
     <span class="article-type">WELCOME TO AIRLOG</span>
     <span class="date-text">24 March 2024</span>

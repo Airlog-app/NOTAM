@@ -93,7 +93,8 @@
         on board and are here to support your aviation journey with our cutting-edge features designed specifically for
         pilots.</p>
     <h2>Get Started</h2>
-    <p>To help you get started and answer any questions you might have, please refer to our comprehensive documentation available [here](https://docs.airlog.io). If you need further assistance, feel free to email us at support@airlog.io or connect with us on our social media channels.</p>
+    <p>To help you get started and answer any questions you might have, please refer to our comprehensive documentation available <a href="https://docs.airlog.io">here</a>. If you need further assistance, feel free to email us at <a href="mailto:support@airlog.io">support@airlog.io</a> or connect with us on our social media channels.</p>
+
 
     <div class="container">
         <h2>Stay Connected</h2>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Update to Airlog 1.2.6</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', sans-serif;
+            margin: 0;
+            padding: 20px;
+            --background-color: #fff;
+            --text-color: #000;
+            --container-background-color: #f2f2f2;
+            --title-color: #ff2d55;
+            --secondary-color: #8e8e93;
+            --link-color: #3578F7;
+            background-color: var(--background-color);
+            color: var(--text-color);
+        }
+
+        .container {
+            background-color: var(--container-background-color);
+            color: var(--text-color);
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .article-type {
+            font-size: 12px;
+            color: var(--title-color);
+            margin-top: 0;
+            margin-bottom: 5px;
+            font-weight: bold;
+            display: block;
+        }
+
+        .date-text {
+            font-size: 12px;
+            color: var(--secondary-color);
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-size: 24px;
+            color: var(--text-color);
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 18px;
+            color: var(--text-color);
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--text-color);
+        }
+
+        a {
+            color: var(--link-color);
+            text-decoration: none;
+        }
+
+        /* Dark mode styles */
+        @media (prefers-color-scheme: dark) {
+            body {
+                --background-color: #1C1C1EFF;
+                --text-color: #fff;
+                --container-background-color: #2C2C2EFF;
+                --link-color: #3578F7;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <span class="article-type">UPDATE NOTICE</span>
+    <span class="date-text">24 October 2025</span>
+
+    <h1>Update to Version 1.2.6</h1>
+
+    <p>This update addresses rare cases where user preferences could reset under certain system protection states, ensuring your personal settings now remain safely preserved across reboots, background launches, and device restarts.</p>
+
+    <h2>What’s New</h2>
+    <ul>
+        <li>✅ Fixed a background protection issue affecting some iOS 26 devices</li>
+        <li>✅ Improved launch speed and resource handling</li>
+        <li>✅ Enhanced Hub live limit refresh performance</li>
+        <li>✅ Minor interface and animation refinements</li>
+    </ul>
+
+    <p>For the best experience and continued sync reliability, we strongly recommend updating to 1.2.6 via the <a
+            href="https://apps.apple.com/app/id6450982707">App Store</a> before your next flight.</p>
+
+
+</body>
+
+</html>
